@@ -39,8 +39,4 @@ def get_the_most_expensive_big_mac_price_by_year(year):
     return(x)
 
 if __name__ == "__main__":
-    get_big_mac_price_by_year(2018,'usa')
-    get_big_mac_price_by_country('rus')
-    get_the_cheapest_big_mac_price_by_year(2008)
-    get_the_most_expensive_big_mac_price_by_year(2016)
     pass # Remove this line and code your user interface
